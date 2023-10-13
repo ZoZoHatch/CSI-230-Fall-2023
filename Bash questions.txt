@@ -1,0 +1,11 @@
+1. What has been your experience learning bash?
+	It's been good! except for some trouble working with linux
+
+2. What would have made the experience with learning it better, if there were problems with it, my instructions, or the assignments?
+	I don't know, everything was very understandable
+
+3. Approximately how much time did you spend working on assignments?
+	About an two hours per assignment, but it varried
+
+4. Are you able to see how the programs used in this class or learning bash would be helpful for your career?
+	Yes! I feel like the data parcing and formating will be particularly helpful with my capstone project
